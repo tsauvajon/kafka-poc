@@ -6,6 +6,14 @@
 - cookie_cut.py downloads the images and cuts them to the shape of the fields they contain
 - extract_metrics.py analyzes the cut images to extract useful info
 
+Demo:
+- Kafka (top left)
+- `new_image` (bottom left)
+- `cookie_cut` (middle)
+- `extract_metrics` (right)
+
+![Demo - GIF](demo.gif)
+
 ## Run
 
 ### Requirements
